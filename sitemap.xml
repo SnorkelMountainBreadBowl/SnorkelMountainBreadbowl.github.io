@@ -3,14 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stereotypicalnerd.com/poems/atestofthegithubsoftware/</loc>
-    <lastmod>2020-04-26T14:34:44-04:00</lastmod>
+    <loc>https://stereotypicalnerd.com/</loc>
+    <lastmod>2020-04-26T15:19:57-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://stereotypicalnerd.com/</loc>
+    <loc>https://stereotypicalnerd.com/letters/lettertomikhailone/</loc>
+    <lastmod>2020-04-26T15:19:57-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stereotypicalnerd.com/letters/</loc>
+    <lastmod>2020-04-26T15:19:57-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stereotypicalnerd.com/poems/atestofthegithubsoftware/</loc>
     <lastmod>2020-04-26T14:34:44-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

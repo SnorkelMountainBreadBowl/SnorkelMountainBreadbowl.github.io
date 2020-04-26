@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Letters on Abigail Elizabeth</title>
+    <link>https://stereotypicalnerd.com/letters/</link>
+    <description>Recent content in Letters on Abigail Elizabeth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 15:19:57 -0400</lastBuildDate>
+    
+	<atom:link href="https://stereotypicalnerd.com/letters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Letter One to Mikhail</title>
+      <link>https://stereotypicalnerd.com/letters/lettertomikhailone/</link>
+      <pubDate>Sun, 26 Apr 2020 15:19:57 -0400</pubDate>
+      
+      <guid>https://stereotypicalnerd.com/letters/lettertomikhailone/</guid>
+      <description>Dear Mikhail,
+Hi tiger! Thank you so much for helping me! I appreciate it!
+ Abbie
+Over and Out  </description>
+    </item>
+    
+  </channel>
+</rss>
