@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Abigail Elizabeth Alpern</title>
+    <link>sterotypicalnerd.com/thoughts/</link>
+    <description>Recent content in Thoughts on Abigail Elizabeth Alpern</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 12:05:01 -0400</lastBuildDate>
+    
+	<atom:link href="sterotypicalnerd.com/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing My Website</title>
+      <link>sterotypicalnerd.com/thoughts/testingmywebsite/</link>
+      <pubDate>Sun, 26 Apr 2020 12:05:01 -0400</pubDate>
+      
+      <guid>sterotypicalnerd.com/thoughts/testingmywebsite/</guid>
+      <description>I am now testing my website. Thanks for looking at my first post! We have a long way to go, but I&amp;rsquo;m excited to see where this goes! Credit to my amazing boyfriend, Mikhail, for teaching me everything I needed to know to put this together. I couldn&amp;rsquo;t have done this without him! He made this process fun and exciting instead of boring and confusing. I owe it all to him!</description>
+    </item>
+    
+  </channel>
+</rss>
