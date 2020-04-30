@@ -4,7 +4,21 @@
   
   <url>
     <loc>https://stereotypicalnerd.com/</loc>
-    <lastmod>2020-04-29T16:23:44-04:00</lastmod>
+    <lastmod>2020-04-29T17:51:07-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stereotypicalnerd.com/posts/</loc>
+    <lastmod>2020-04-29T17:51:07-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stereotypicalnerd.com/posts/apbio/</loc>
+    <lastmod>2020-04-29T17:51:07-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,13 +53,6 @@
   
   <url>
     <loc>https://stereotypicalnerd.com/posts/myfirstpost/</loc>
-    <lastmod>2020-04-28T22:00:41-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://stereotypicalnerd.com/posts/</loc>
     <lastmod>2020-04-28T22:00:41-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
