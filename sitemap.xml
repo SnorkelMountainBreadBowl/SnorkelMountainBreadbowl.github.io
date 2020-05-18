@@ -4,20 +4,27 @@
   
   <url>
     <loc>https://stereotypicalnerd.com/</loc>
-    <lastmod>2020-05-18T17:31:43-04:00</lastmod>
+    <lastmod>2020-05-18T18:33:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://stereotypicalnerd.com/the-crane/partone/</loc>
-    <lastmod>2020-05-18T17:31:43-04:00</lastmod>
+    <loc>https://stereotypicalnerd.com/the-crane/parttwo/</loc>
+    <lastmod>2020-05-18T18:33:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://stereotypicalnerd.com/the-crane/</loc>
+    <lastmod>2020-05-18T18:33:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stereotypicalnerd.com/the-crane/partone/</loc>
     <lastmod>2020-05-18T17:31:43-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
