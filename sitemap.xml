@@ -4,7 +4,21 @@
   
   <url>
     <loc>https://stereotypicalnerd.com/</loc>
-    <lastmod>2020-06-03T17:32:57-04:00</lastmod>
+    <lastmod>2020-07-01T16:34:36-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stereotypicalnerd.com/letters/</loc>
+    <lastmod>2020-07-01T16:34:36-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stereotypicalnerd.com/letters/mykasintahan/</loc>
+    <lastmod>2020-07-01T16:34:36-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -137,13 +151,6 @@
   
   <url>
     <loc>https://stereotypicalnerd.com/letters/lettertotodd/</loc>
-    <lastmod>2020-04-28T22:11:16-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://stereotypicalnerd.com/letters/</loc>
     <lastmod>2020-04-28T22:11:16-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
