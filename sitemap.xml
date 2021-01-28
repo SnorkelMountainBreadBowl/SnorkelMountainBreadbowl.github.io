@@ -4,7 +4,21 @@
   
   <url>
     <loc>https://stereotypicalnerd.com/</loc>
-    <lastmod>2020-10-08T19:20:28-04:00</lastmod>
+    <lastmod>2020-11-04T20:45:59-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stereotypicalnerd.com/posts/</loc>
+    <lastmod>2020-11-04T20:45:59-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://stereotypicalnerd.com/posts/soulmates/</loc>
+    <lastmod>2020-11-04T20:45:59-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,13 +53,6 @@
   
   <url>
     <loc>https://stereotypicalnerd.com/posts/onemorehug/</loc>
-    <lastmod>2020-08-20T21:39:57-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://stereotypicalnerd.com/posts/</loc>
     <lastmod>2020-08-20T21:39:57-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
